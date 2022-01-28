@@ -1,3 +1,39 @@
 body{
-    background-color: aqua;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+div{
+    background-color: #e4f9f5;
+}
+
+h1{
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+}
+
+.top-cont{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+p{
+    font-family: 'Montserrat Alternates', sans-serif;
 }
